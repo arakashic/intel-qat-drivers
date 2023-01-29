@@ -1,0 +1,12 @@
+Source: intel-qat
+Section: admin
+Priority: optional
+Maintainer: Yanfei Guo <yanf.guo@gmail.com>
+Build-Depends: libboost-all-dev, libudev-dev, yasm, make, g++, wget
+Standards-Version: 1.7
+Homepage: https://www.intel.com
+
+Package: intel-qat
+Architecture: amd64
+Description: QuickAssist (QAT)
+ QAT accelerator driver
