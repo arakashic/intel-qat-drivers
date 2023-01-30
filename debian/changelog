@@ -1,1 +1,5 @@
-intel-qat-1.7
+intel-qat (1-7) unstable; urgency=medium
+
+  * Include Intel QAT driver.
+
+ -- Yanfei Guo <yanf.guo@gmail.com>  Sun, 29 Jan 2023 13:00:00 -0500
